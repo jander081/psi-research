@@ -1,0 +1,8 @@
+# bots/reddit/config.yaml
+
+reddit:
+  client_id: "m8hd2p0025KAS67X0ZXbtA"
+  client_secret: "9FVhbvrISsC7t9pxxd_U-nJjg_jw9A"
+  username: "psi_research"
+  password: "RFt45#$dg23WEdfhdk56#"
+  user_agent: "PSIResearchBot v1.0"

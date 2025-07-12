@@ -5,6 +5,9 @@ dataset/
 *.npy
 *.h5
 
+# Ignore config files with credentials
+bots/**/config.yml
+
 # Ignore system files
 .DS_Store
 .vscode/ 

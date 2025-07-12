@@ -1,0 +1,11 @@
+name: psi_reddit_bot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - praw
+      - transformers
+      - torch  # Needed for Hugging Face models
